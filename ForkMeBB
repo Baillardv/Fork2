@@ -1,1 +1,9 @@
-ForkMePlease !
+# Saisie des chiffres
+num1 = float(input("Entrez le premier chiffre : "))
+num2 = float(input("Entrez le deuxième chiffre : "))
+
+# Soustraction
+difference = num1 - num2
+
+# Affichage du résultat
+print("La différence entre", num1, "et", num2, "est égale à", difference)
